@@ -1,0 +1,8 @@
+<html>
+<head>
+<tittle>testing git</tittle>
+</head>
+<body>
+<h2>GitHub and Intellij IDEA</h2>
+</body>
+</html>
